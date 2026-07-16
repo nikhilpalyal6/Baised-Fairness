@@ -1,0 +1,40 @@
+dataset,model,seed,feature,appearance_count
+AI Fair Recruitment,RandomForest,52,Age,5
+AI Fair Recruitment,RandomForest,52,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,52,Certifications_Count,5
+AI Fair Recruitment,RandomForest,52,Communication_Score,5
+AI Fair Recruitment,RandomForest,52,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,52,Expected_Salary,5
+AI Fair Recruitment,RandomForest,52,Experience_Years,5
+AI Fair Recruitment,RandomForest,52,Interview_Score,5
+AI Fair Recruitment,RandomForest,52,Location_Urban,5
+AI Fair Recruitment,RandomForest,52,Previous_Companies,5
+AI Fair Recruitment,RandomForest,52,Skill_Score,5
+AI Fair Recruitment,RandomForest,52,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_Manager,4
+AI Fair Recruitment,RandomForest,52,Location_Semi-Urban,4
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,RandomForest,52,Education_Level_Diploma,2
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_Software Engineer,1
+AI Fair Recruitment,XGBoost,52,Age,5
+AI Fair Recruitment,XGBoost,52,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,52,Communication_Score,5
+AI Fair Recruitment,XGBoost,52,Gender_Female,5
+AI Fair Recruitment,XGBoost,52,Gender_Male,5
+AI Fair Recruitment,XGBoost,52,Gender_Other,5
+AI Fair Recruitment,XGBoost,52,Interview_Score,5
+AI Fair Recruitment,XGBoost,52,Skill_Score,5
+AI Fair Recruitment,XGBoost,52,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,52,Expected_Salary,4
+AI Fair Recruitment,XGBoost,52,Experience_Years,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Data Analyst,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Software Engineer,3
+AI Fair Recruitment,XGBoost,52,Location_Rural,3
+AI Fair Recruitment,XGBoost,52,Certifications_Count,2
+AI Fair Recruitment,XGBoost,52,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,52,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Manager,2
+AI Fair Recruitment,XGBoost,52,Previous_Companies,2
+AI Fair Recruitment,XGBoost,52,Education_Level_Masters,1

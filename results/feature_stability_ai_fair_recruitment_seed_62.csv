@@ -1,0 +1,43 @@
+dataset,model,seed,feature,appearance_count
+AI Fair Recruitment,RandomForest,62,Age,5
+AI Fair Recruitment,RandomForest,62,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,62,Certifications_Count,5
+AI Fair Recruitment,RandomForest,62,Communication_Score,5
+AI Fair Recruitment,RandomForest,62,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,62,Expected_Salary,5
+AI Fair Recruitment,RandomForest,62,Experience_Years,5
+AI Fair Recruitment,RandomForest,62,Interview_Score,5
+AI Fair Recruitment,RandomForest,62,Location_Semi-Urban,5
+AI Fair Recruitment,RandomForest,62,Location_Urban,5
+AI Fair Recruitment,RandomForest,62,Previous_Companies,5
+AI Fair Recruitment,RandomForest,62,Skill_Score,5
+AI Fair Recruitment,RandomForest,62,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_Manager,4
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_HR Executive,2
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_ML Engineer,2
+AI Fair Recruitment,RandomForest,62,Education_Level_Diploma,1
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_Data Analyst,1
+AI Fair Recruitment,XGBoost,62,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,62,Gender_Female,5
+AI Fair Recruitment,XGBoost,62,Gender_Male,5
+AI Fair Recruitment,XGBoost,62,Gender_Other,5
+AI Fair Recruitment,XGBoost,62,Interview_Score,5
+AI Fair Recruitment,XGBoost,62,Skill_Score,5
+AI Fair Recruitment,XGBoost,62,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,62,Certifications_Count,4
+AI Fair Recruitment,XGBoost,62,Communication_Score,4
+AI Fair Recruitment,XGBoost,62,Expected_Salary,4
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_ML Engineer,4
+AI Fair Recruitment,XGBoost,62,Previous_Companies,4
+AI Fair Recruitment,XGBoost,62,Age,3
+AI Fair Recruitment,XGBoost,62,Experience_Years,3
+AI Fair Recruitment,XGBoost,62,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,62,Education_Level_Masters,2
+AI Fair Recruitment,XGBoost,62,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Data Analyst,2
+AI Fair Recruitment,XGBoost,62,Education_Level_Diploma,1
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Manager,1
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Software Engineer,1
+AI Fair Recruitment,XGBoost,62,Location_Rural,1
+AI Fair Recruitment,XGBoost,62,Location_Semi-Urban,1
+AI Fair Recruitment,XGBoost,62,Location_Urban,1

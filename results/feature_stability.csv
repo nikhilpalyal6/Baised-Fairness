@@ -1,0 +1,398 @@
+dataset,model,seed,feature,appearance_count
+Adult Income,RandomForest,42,age,5
+Adult Income,RandomForest,42,age_hours_interaction,5
+Adult Income,RandomForest,42,capital.gain,5
+Adult Income,RandomForest,42,capital.loss,5
+Adult Income,RandomForest,42,education.num,5
+Adult Income,RandomForest,42,fnlwgt,5
+Adult Income,RandomForest,42,hours.per.week,5
+Adult Income,RandomForest,42,log_capital_gain,5
+Adult Income,RandomForest,42,marital.status_Married-civ-spouse,5
+Adult Income,RandomForest,42,marital.status_Never-married,5
+Adult Income,RandomForest,42,occupation_Exec-managerial,5
+Adult Income,RandomForest,42,occupation_Prof-specialty,5
+Adult Income,RandomForest,42,relationship_Husband,5
+Adult Income,RandomForest,42,education_Bachelors,4
+Adult Income,RandomForest,42,relationship_Not-in-family,3
+Adult Income,RandomForest,42,workclass_Private,3
+Adult Income,XGBoost,42,capital.gain,5
+Adult Income,XGBoost,42,capital.loss,5
+Adult Income,XGBoost,42,education.num,5
+Adult Income,XGBoost,42,education_Doctorate,5
+Adult Income,XGBoost,42,marital.status_Married-civ-spouse,5
+Adult Income,XGBoost,42,occupation_Exec-managerial,5
+Adult Income,XGBoost,42,occupation_Farming-fishing,5
+Adult Income,XGBoost,42,occupation_Handlers-cleaners,5
+Adult Income,XGBoost,42,occupation_Other-service,5
+Adult Income,XGBoost,42,relationship_Own-child,5
+Adult Income,XGBoost,42,log_capital_gain,4
+Adult Income,XGBoost,42,relationship_Wife,4
+Adult Income,XGBoost,42,sex_Male,4
+Adult Income,XGBoost,42,workclass_Federal-gov,3
+Adult Income,XGBoost,42,occupation_Prof-specialty,2
+Adult Income,XGBoost,42,occupation_Tech-support,2
+Adult Income,XGBoost,42,education_9th,1
+Adult Income,XGBoost,42,education_Masters,1
+Adult Income,XGBoost,42,marital.status_Married-AF-spouse,1
+Adult Income,XGBoost,42,marital.status_Never-married,1
+Adult Income,XGBoost,42,native.country_Philippines,1
+Adult Income,XGBoost,42,relationship_Unmarried,1
+AI Fair Recruitment,RandomForest,42,Age,5
+AI Fair Recruitment,RandomForest,42,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,42,Certifications_Count,5
+AI Fair Recruitment,RandomForest,42,Communication_Score,5
+AI Fair Recruitment,RandomForest,42,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,42,Expected_Salary,5
+AI Fair Recruitment,RandomForest,42,Experience_Years,5
+AI Fair Recruitment,RandomForest,42,Interview_Score,5
+AI Fair Recruitment,RandomForest,42,Location_Urban,5
+AI Fair Recruitment,RandomForest,42,Previous_Companies,5
+AI Fair Recruitment,RandomForest,42,Skill_Score,5
+AI Fair Recruitment,RandomForest,42,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,42,Job_Role_Applied_ML Engineer,4
+AI Fair Recruitment,RandomForest,42,Location_Semi-Urban,3
+AI Fair Recruitment,RandomForest,42,Education_Level_Masters,2
+AI Fair Recruitment,RandomForest,42,Job_Role_Applied_Manager,2
+AI Fair Recruitment,RandomForest,42,Job_Role_Applied_Software Engineer,2
+AI Fair Recruitment,RandomForest,42,Education_Level_Diploma,1
+AI Fair Recruitment,RandomForest,42,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,XGBoost,42,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,42,Certifications_Count,5
+AI Fair Recruitment,XGBoost,42,Gender_Female,5
+AI Fair Recruitment,XGBoost,42,Gender_Male,5
+AI Fair Recruitment,XGBoost,42,Interview_Score,5
+AI Fair Recruitment,XGBoost,42,Job_Role_Applied_Software Engineer,5
+AI Fair Recruitment,XGBoost,42,Skill_Score,5
+AI Fair Recruitment,XGBoost,42,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,42,Expected_Salary,4
+AI Fair Recruitment,XGBoost,42,Experience_Years,4
+AI Fair Recruitment,XGBoost,42,Job_Role_Applied_Manager,4
+AI Fair Recruitment,XGBoost,42,Previous_Companies,4
+AI Fair Recruitment,XGBoost,42,Location_Rural,3
+AI Fair Recruitment,XGBoost,42,Age,2
+AI Fair Recruitment,XGBoost,42,Communication_Score,2
+AI Fair Recruitment,XGBoost,42,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,42,Gender_Other,2
+AI Fair Recruitment,XGBoost,42,Job_Role_Applied_ML Engineer,2
+AI Fair Recruitment,XGBoost,42,Location_Semi-Urban,2
+AI Fair Recruitment,XGBoost,42,Education_Level_High School,1
+AI Fair Recruitment,XGBoost,42,Job_Role_Applied_Data Analyst,1
+AI Fair Recruitment,XGBoost,42,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,XGBoost,42,Location_Urban,1
+Adult Income,RandomForest,52,age,5
+Adult Income,RandomForest,52,age_hours_interaction,5
+Adult Income,RandomForest,52,capital.gain,5
+Adult Income,RandomForest,52,capital.loss,5
+Adult Income,RandomForest,52,education.num,5
+Adult Income,RandomForest,52,fnlwgt,5
+Adult Income,RandomForest,52,hours.per.week,5
+Adult Income,RandomForest,52,log_capital_gain,5
+Adult Income,RandomForest,52,marital.status_Married-civ-spouse,5
+Adult Income,RandomForest,52,marital.status_Never-married,5
+Adult Income,RandomForest,52,occupation_Exec-managerial,5
+Adult Income,RandomForest,52,occupation_Prof-specialty,5
+Adult Income,RandomForest,52,relationship_Husband,5
+Adult Income,RandomForest,52,education_Bachelors,4
+Adult Income,RandomForest,52,workclass_Private,4
+Adult Income,RandomForest,52,relationship_Wife,2
+Adult Income,XGBoost,52,capital.gain,5
+Adult Income,XGBoost,52,capital.loss,5
+Adult Income,XGBoost,52,education.num,5
+Adult Income,XGBoost,52,log_capital_gain,5
+Adult Income,XGBoost,52,marital.status_Married-civ-spouse,5
+Adult Income,XGBoost,52,occupation_Exec-managerial,5
+Adult Income,XGBoost,52,occupation_Farming-fishing,5
+Adult Income,XGBoost,52,occupation_Other-service,5
+Adult Income,XGBoost,52,occupation_Prof-specialty,5
+Adult Income,XGBoost,52,education_Bachelors,4
+Adult Income,XGBoost,52,marital.status_Divorced,4
+Adult Income,XGBoost,52,marital.status_Never-married,4
+Adult Income,XGBoost,52,relationship_Own-child,4
+Adult Income,XGBoost,52,occupation_Tech-support,3
+Adult Income,XGBoost,52,relationship_Wife,3
+Adult Income,XGBoost,52,sex_Male,3
+Adult Income,XGBoost,52,occupation_Handlers-cleaners,2
+Adult Income,XGBoost,52,education_Masters,1
+Adult Income,XGBoost,52,native.country_Mexico,1
+Adult Income,XGBoost,52,workclass_Federal-gov,1
+AI Fair Recruitment,RandomForest,52,Age,5
+AI Fair Recruitment,RandomForest,52,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,52,Certifications_Count,5
+AI Fair Recruitment,RandomForest,52,Communication_Score,5
+AI Fair Recruitment,RandomForest,52,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,52,Expected_Salary,5
+AI Fair Recruitment,RandomForest,52,Experience_Years,5
+AI Fair Recruitment,RandomForest,52,Interview_Score,5
+AI Fair Recruitment,RandomForest,52,Location_Urban,5
+AI Fair Recruitment,RandomForest,52,Previous_Companies,5
+AI Fair Recruitment,RandomForest,52,Skill_Score,5
+AI Fair Recruitment,RandomForest,52,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_Manager,4
+AI Fair Recruitment,RandomForest,52,Location_Semi-Urban,4
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,RandomForest,52,Education_Level_Diploma,2
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,RandomForest,52,Job_Role_Applied_Software Engineer,1
+AI Fair Recruitment,XGBoost,52,Age,5
+AI Fair Recruitment,XGBoost,52,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,52,Communication_Score,5
+AI Fair Recruitment,XGBoost,52,Gender_Female,5
+AI Fair Recruitment,XGBoost,52,Gender_Male,5
+AI Fair Recruitment,XGBoost,52,Gender_Other,5
+AI Fair Recruitment,XGBoost,52,Interview_Score,5
+AI Fair Recruitment,XGBoost,52,Skill_Score,5
+AI Fair Recruitment,XGBoost,52,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,52,Expected_Salary,4
+AI Fair Recruitment,XGBoost,52,Experience_Years,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Data Analyst,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Software Engineer,3
+AI Fair Recruitment,XGBoost,52,Location_Rural,3
+AI Fair Recruitment,XGBoost,52,Certifications_Count,2
+AI Fair Recruitment,XGBoost,52,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,52,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,52,Job_Role_Applied_Manager,2
+AI Fair Recruitment,XGBoost,52,Previous_Companies,2
+AI Fair Recruitment,XGBoost,52,Education_Level_Masters,1
+Adult Income,RandomForest,62,age,5
+Adult Income,RandomForest,62,age_hours_interaction,5
+Adult Income,RandomForest,62,capital.gain,5
+Adult Income,RandomForest,62,capital.loss,5
+Adult Income,RandomForest,62,education.num,5
+Adult Income,RandomForest,62,education_Bachelors,5
+Adult Income,RandomForest,62,fnlwgt,5
+Adult Income,RandomForest,62,hours.per.week,5
+Adult Income,RandomForest,62,log_capital_gain,5
+Adult Income,RandomForest,62,marital.status_Married-civ-spouse,5
+Adult Income,RandomForest,62,marital.status_Never-married,5
+Adult Income,RandomForest,62,occupation_Exec-managerial,5
+Adult Income,RandomForest,62,occupation_Prof-specialty,5
+Adult Income,RandomForest,62,relationship_Husband,5
+Adult Income,RandomForest,62,workclass_Private,3
+Adult Income,RandomForest,62,relationship_Not-in-family,2
+Adult Income,XGBoost,62,capital.gain,5
+Adult Income,XGBoost,62,capital.loss,5
+Adult Income,XGBoost,62,education.num,5
+Adult Income,XGBoost,62,marital.status_Married-civ-spouse,5
+Adult Income,XGBoost,62,occupation_Exec-managerial,5
+Adult Income,XGBoost,62,occupation_Farming-fishing,5
+Adult Income,XGBoost,62,occupation_Other-service,5
+Adult Income,XGBoost,62,relationship_Own-child,5
+Adult Income,XGBoost,62,relationship_Wife,5
+Adult Income,XGBoost,62,education_Bachelors,4
+Adult Income,XGBoost,62,education_Masters,4
+Adult Income,XGBoost,62,log_capital_gain,4
+Adult Income,XGBoost,62,occupation_Prof-specialty,4
+Adult Income,XGBoost,62,relationship_Husband,4
+Adult Income,XGBoost,62,education_Prof-school,2
+Adult Income,XGBoost,62,occupation_Handlers-cleaners,2
+Adult Income,XGBoost,62,age_hours_interaction,1
+Adult Income,XGBoost,62,education_12th,1
+Adult Income,XGBoost,62,occupation_Machine-op-inspct,1
+Adult Income,XGBoost,62,sex_Male,1
+Adult Income,XGBoost,62,workclass_Federal-gov,1
+Adult Income,XGBoost,62,workclass_Self-emp-not-inc,1
+AI Fair Recruitment,RandomForest,62,Age,5
+AI Fair Recruitment,RandomForest,62,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,62,Certifications_Count,5
+AI Fair Recruitment,RandomForest,62,Communication_Score,5
+AI Fair Recruitment,RandomForest,62,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,62,Expected_Salary,5
+AI Fair Recruitment,RandomForest,62,Experience_Years,5
+AI Fair Recruitment,RandomForest,62,Interview_Score,5
+AI Fair Recruitment,RandomForest,62,Location_Semi-Urban,5
+AI Fair Recruitment,RandomForest,62,Location_Urban,5
+AI Fair Recruitment,RandomForest,62,Previous_Companies,5
+AI Fair Recruitment,RandomForest,62,Skill_Score,5
+AI Fair Recruitment,RandomForest,62,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_Manager,4
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_HR Executive,2
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_ML Engineer,2
+AI Fair Recruitment,RandomForest,62,Education_Level_Diploma,1
+AI Fair Recruitment,RandomForest,62,Job_Role_Applied_Data Analyst,1
+AI Fair Recruitment,XGBoost,62,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,62,Gender_Female,5
+AI Fair Recruitment,XGBoost,62,Gender_Male,5
+AI Fair Recruitment,XGBoost,62,Gender_Other,5
+AI Fair Recruitment,XGBoost,62,Interview_Score,5
+AI Fair Recruitment,XGBoost,62,Skill_Score,5
+AI Fair Recruitment,XGBoost,62,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,62,Certifications_Count,4
+AI Fair Recruitment,XGBoost,62,Communication_Score,4
+AI Fair Recruitment,XGBoost,62,Expected_Salary,4
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_ML Engineer,4
+AI Fair Recruitment,XGBoost,62,Previous_Companies,4
+AI Fair Recruitment,XGBoost,62,Age,3
+AI Fair Recruitment,XGBoost,62,Experience_Years,3
+AI Fair Recruitment,XGBoost,62,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,62,Education_Level_Masters,2
+AI Fair Recruitment,XGBoost,62,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Data Analyst,2
+AI Fair Recruitment,XGBoost,62,Education_Level_Diploma,1
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Manager,1
+AI Fair Recruitment,XGBoost,62,Job_Role_Applied_Software Engineer,1
+AI Fair Recruitment,XGBoost,62,Location_Rural,1
+AI Fair Recruitment,XGBoost,62,Location_Semi-Urban,1
+AI Fair Recruitment,XGBoost,62,Location_Urban,1
+Adult Income,RandomForest,72,age,5
+Adult Income,RandomForest,72,age_hours_interaction,5
+Adult Income,RandomForest,72,capital.gain,5
+Adult Income,RandomForest,72,capital.loss,5
+Adult Income,RandomForest,72,education.num,5
+Adult Income,RandomForest,72,fnlwgt,5
+Adult Income,RandomForest,72,hours.per.week,5
+Adult Income,RandomForest,72,log_capital_gain,5
+Adult Income,RandomForest,72,marital.status_Married-civ-spouse,5
+Adult Income,RandomForest,72,marital.status_Never-married,5
+Adult Income,RandomForest,72,occupation_Exec-managerial,5
+Adult Income,RandomForest,72,occupation_Prof-specialty,5
+Adult Income,RandomForest,72,relationship_Husband,5
+Adult Income,RandomForest,72,education_Bachelors,4
+Adult Income,RandomForest,72,workclass_Private,3
+Adult Income,RandomForest,72,relationship_Not-in-family,2
+Adult Income,RandomForest,72,relationship_Wife,1
+Adult Income,XGBoost,72,capital.gain,5
+Adult Income,XGBoost,72,capital.loss,5
+Adult Income,XGBoost,72,education.num,5
+Adult Income,XGBoost,72,log_capital_gain,5
+Adult Income,XGBoost,72,marital.status_Married-civ-spouse,5
+Adult Income,XGBoost,72,occupation_Exec-managerial,5
+Adult Income,XGBoost,72,occupation_Farming-fishing,5
+Adult Income,XGBoost,72,occupation_Other-service,5
+Adult Income,XGBoost,72,relationship_Wife,5
+Adult Income,XGBoost,72,occupation_Prof-specialty,4
+Adult Income,XGBoost,72,occupation_Tech-support,4
+Adult Income,XGBoost,72,relationship_Own-child,4
+Adult Income,XGBoost,72,marital.status_Never-married,3
+Adult Income,XGBoost,72,occupation_Handlers-cleaners,3
+Adult Income,XGBoost,72,marital.status_Married-AF-spouse,2
+Adult Income,XGBoost,72,occupation_?,2
+Adult Income,XGBoost,72,sex_Male,2
+Adult Income,XGBoost,72,workclass_Federal-gov,2
+Adult Income,XGBoost,72,native.country_Mexico,1
+Adult Income,XGBoost,72,relationship_Husband,1
+Adult Income,XGBoost,72,relationship_Other-relative,1
+Adult Income,XGBoost,72,workclass_Self-emp-not-inc,1
+AI Fair Recruitment,RandomForest,72,Age,5
+AI Fair Recruitment,RandomForest,72,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,72,Certifications_Count,5
+AI Fair Recruitment,RandomForest,72,Communication_Score,5
+AI Fair Recruitment,RandomForest,72,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,72,Expected_Salary,5
+AI Fair Recruitment,RandomForest,72,Experience_Years,5
+AI Fair Recruitment,RandomForest,72,Interview_Score,5
+AI Fair Recruitment,RandomForest,72,Location_Urban,5
+AI Fair Recruitment,RandomForest,72,Previous_Companies,5
+AI Fair Recruitment,RandomForest,72,Skill_Score,5
+AI Fair Recruitment,RandomForest,72,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,72,Job_Role_Applied_Software Engineer,3
+AI Fair Recruitment,RandomForest,72,Location_Rural,3
+AI Fair Recruitment,RandomForest,72,Location_Semi-Urban,3
+AI Fair Recruitment,RandomForest,72,Job_Role_Applied_Manager,2
+AI Fair Recruitment,RandomForest,72,Education_Level_Diploma,1
+AI Fair Recruitment,RandomForest,72,Education_Level_Masters,1
+AI Fair Recruitment,RandomForest,72,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,RandomForest,72,Job_Role_Applied_ML Engineer,1
+AI Fair Recruitment,XGBoost,72,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,72,Gender_Female,5
+AI Fair Recruitment,XGBoost,72,Gender_Male,5
+AI Fair Recruitment,XGBoost,72,Gender_Other,5
+AI Fair Recruitment,XGBoost,72,Interview_Score,5
+AI Fair Recruitment,XGBoost,72,Skill_Score,5
+AI Fair Recruitment,XGBoost,72,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,72,Education_Level_PhD,4
+AI Fair Recruitment,XGBoost,72,Experience_Years,4
+AI Fair Recruitment,XGBoost,72,Job_Role_Applied_Data Analyst,4
+AI Fair Recruitment,XGBoost,72,Age,3
+AI Fair Recruitment,XGBoost,72,Expected_Salary,3
+AI Fair Recruitment,XGBoost,72,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,XGBoost,72,Previous_Companies,3
+AI Fair Recruitment,XGBoost,72,Certifications_Count,2
+AI Fair Recruitment,XGBoost,72,Communication_Score,2
+AI Fair Recruitment,XGBoost,72,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,72,Education_Level_Masters,2
+AI Fair Recruitment,XGBoost,72,Job_Role_Applied_Software Engineer,2
+AI Fair Recruitment,XGBoost,72,Location_Semi-Urban,2
+AI Fair Recruitment,XGBoost,72,Education_Level_Diploma,1
+AI Fair Recruitment,XGBoost,72,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,XGBoost,72,Job_Role_Applied_Manager,1
+AI Fair Recruitment,XGBoost,72,Location_Rural,1
+Adult Income,RandomForest,82,age,5
+Adult Income,RandomForest,82,age_hours_interaction,5
+Adult Income,RandomForest,82,capital.gain,5
+Adult Income,RandomForest,82,capital.loss,5
+Adult Income,RandomForest,82,education.num,5
+Adult Income,RandomForest,82,education_Bachelors,5
+Adult Income,RandomForest,82,fnlwgt,5
+Adult Income,RandomForest,82,hours.per.week,5
+Adult Income,RandomForest,82,log_capital_gain,5
+Adult Income,RandomForest,82,marital.status_Married-civ-spouse,5
+Adult Income,RandomForest,82,marital.status_Never-married,5
+Adult Income,RandomForest,82,occupation_Exec-managerial,5
+Adult Income,RandomForest,82,occupation_Prof-specialty,5
+Adult Income,RandomForest,82,relationship_Husband,5
+Adult Income,RandomForest,82,workclass_Private,3
+Adult Income,RandomForest,82,relationship_Wife,2
+Adult Income,XGBoost,82,capital.gain,5
+Adult Income,XGBoost,82,capital.loss,5
+Adult Income,XGBoost,82,education.num,5
+Adult Income,XGBoost,82,marital.status_Married-civ-spouse,5
+Adult Income,XGBoost,82,occupation_Exec-managerial,5
+Adult Income,XGBoost,82,occupation_Farming-fishing,5
+Adult Income,XGBoost,82,occupation_Other-service,5
+Adult Income,XGBoost,82,occupation_Prof-specialty,5
+Adult Income,XGBoost,82,relationship_Own-child,5
+Adult Income,XGBoost,82,relationship_Wife,5
+Adult Income,XGBoost,82,log_capital_gain,4
+Adult Income,XGBoost,82,relationship_Husband,4
+Adult Income,XGBoost,82,occupation_Handlers-cleaners,3
+Adult Income,XGBoost,82,occupation_Tech-support,3
+Adult Income,XGBoost,82,education_Doctorate,2
+Adult Income,XGBoost,82,native.country_Mexico,2
+Adult Income,XGBoost,82,workclass_Federal-gov,2
+Adult Income,XGBoost,82,marital.status_Divorced,1
+Adult Income,XGBoost,82,marital.status_Never-married,1
+Adult Income,XGBoost,82,occupation_Machine-op-inspct,1
+Adult Income,XGBoost,82,occupation_Sales,1
+Adult Income,XGBoost,82,relationship_Unmarried,1
+AI Fair Recruitment,RandomForest,82,Age,5
+AI Fair Recruitment,RandomForest,82,Aptitude_Test_Score,5
+AI Fair Recruitment,RandomForest,82,Certifications_Count,5
+AI Fair Recruitment,RandomForest,82,Communication_Score,5
+AI Fair Recruitment,RandomForest,82,Education_Level_Bachelors,5
+AI Fair Recruitment,RandomForest,82,Expected_Salary,5
+AI Fair Recruitment,RandomForest,82,Experience_Years,5
+AI Fair Recruitment,RandomForest,82,Interview_Score,5
+AI Fair Recruitment,RandomForest,82,Job_Role_Applied_Software Engineer,5
+AI Fair Recruitment,RandomForest,82,Location_Semi-Urban,5
+AI Fair Recruitment,RandomForest,82,Location_Urban,5
+AI Fair Recruitment,RandomForest,82,Previous_Companies,5
+AI Fair Recruitment,RandomForest,82,Skill_Score,5
+AI Fair Recruitment,RandomForest,82,Technical_Test_Score,5
+AI Fair Recruitment,RandomForest,82,Education_Level_Diploma,1
+AI Fair Recruitment,RandomForest,82,Job_Role_Applied_Data Analyst,1
+AI Fair Recruitment,RandomForest,82,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,RandomForest,82,Job_Role_Applied_ML Engineer,1
+AI Fair Recruitment,RandomForest,82,Job_Role_Applied_Manager,1
+AI Fair Recruitment,XGBoost,82,Age,5
+AI Fair Recruitment,XGBoost,82,Aptitude_Test_Score,5
+AI Fair Recruitment,XGBoost,82,Certifications_Count,5
+AI Fair Recruitment,XGBoost,82,Communication_Score,5
+AI Fair Recruitment,XGBoost,82,Gender_Female,5
+AI Fair Recruitment,XGBoost,82,Gender_Male,5
+AI Fair Recruitment,XGBoost,82,Gender_Other,5
+AI Fair Recruitment,XGBoost,82,Interview_Score,5
+AI Fair Recruitment,XGBoost,82,Previous_Companies,5
+AI Fair Recruitment,XGBoost,82,Skill_Score,5
+AI Fair Recruitment,XGBoost,82,Technical_Test_Score,5
+AI Fair Recruitment,XGBoost,82,Job_Role_Applied_ML Engineer,3
+AI Fair Recruitment,XGBoost,82,Location_Rural,3
+AI Fair Recruitment,XGBoost,82,Education_Level_Diploma,2
+AI Fair Recruitment,XGBoost,82,Education_Level_High School,2
+AI Fair Recruitment,XGBoost,82,Education_Level_PhD,2
+AI Fair Recruitment,XGBoost,82,Expected_Salary,2
+AI Fair Recruitment,XGBoost,82,Job_Role_Applied_Manager,2
+AI Fair Recruitment,XGBoost,82,Education_Level_Masters,1
+AI Fair Recruitment,XGBoost,82,Experience_Years,1
+AI Fair Recruitment,XGBoost,82,Job_Role_Applied_HR Executive,1
+AI Fair Recruitment,XGBoost,82,Job_Role_Applied_Software Engineer,1
