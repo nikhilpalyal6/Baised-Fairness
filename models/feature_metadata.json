@@ -1,0 +1,292 @@
+{
+  "ai_recruitment": {
+    "numerical_features": {
+      "Age": {
+        "min": 21.0,
+        "max": 59.0,
+        "mean": 40.050206270627065,
+        "median": 40.0,
+        "default": 40.0
+      },
+      "Experience_Years": {
+        "min": 0.0,
+        "max": 19.0,
+        "mean": 9.50736798679868,
+        "median": 10.0,
+        "default": 10.0
+      },
+      "Skill_Score": {
+        "min": 0.0,
+        "max": 99.0,
+        "mean": 49.61286303630363,
+        "median": 50.0,
+        "default": 50.0
+      },
+      "Aptitude_Test_Score": {
+        "min": 0.0,
+        "max": 99.0,
+        "mean": 49.39436468646865,
+        "median": 49.0,
+        "default": 49.0
+      },
+      "Technical_Test_Score": {
+        "min": 0.0,
+        "max": 99.0,
+        "mean": 49.50165841584158,
+        "median": 49.0,
+        "default": 49.0
+      },
+      "Communication_Score": {
+        "min": 0.0,
+        "max": 99.0,
+        "mean": 49.47292079207921,
+        "median": 50.0,
+        "default": 50.0
+      },
+      "Certifications_Count": {
+        "min": 0.0,
+        "max": 9.0,
+        "mean": 4.4969716973347635,
+        "median": 4.0,
+        "default": 4.0
+      },
+      "Previous_Companies": {
+        "min": 0.0,
+        "max": 7.0,
+        "mean": 3.513151815181518,
+        "median": 4.0,
+        "default": 4.0
+      },
+      "Interview_Score": {
+        "min": 0.0,
+        "max": 99.0,
+        "mean": 49.38467821782178,
+        "median": 49.0,
+        "default": 49.0
+      },
+      "Expected_Salary": {
+        "min": 20000.0,
+        "max": 149998.0,
+        "mean": 84880.8845379538,
+        "median": 84840.5,
+        "default": 84840.5
+      }
+    },
+    "categorical_features": {
+      "Gender": [
+        "Female",
+        "Male",
+        "Other"
+      ],
+      "Education_Level": [
+        "Bachelors",
+        "Diploma",
+        "High School",
+        "Masters",
+        "PhD"
+      ],
+      "Location": [
+        "Rural",
+        "Semi-Urban",
+        "Urban"
+      ],
+      "Job_Role_Applied": [
+        "Data Analyst",
+        "HR Executive",
+        "ML Engineer",
+        "Manager",
+        "Software Engineer"
+      ]
+    },
+    "features_order": [
+      "Gender",
+      "Age",
+      "Education_Level",
+      "Experience_Years",
+      "Skill_Score",
+      "Aptitude_Test_Score",
+      "Technical_Test_Score",
+      "Communication_Score",
+      "Certifications_Count",
+      "Previous_Companies",
+      "Interview_Score",
+      "Location",
+      "Job_Role_Applied",
+      "Expected_Salary"
+    ]
+  },
+  "adult_income": {
+    "numerical_features": {
+      "age": {
+        "min": 17.0,
+        "max": 90.0,
+        "mean": 38.58164675532078,
+        "median": 37.0,
+        "default": 37.0
+      },
+      "education_num": {
+        "min": 1.0,
+        "max": 16.0,
+        "mean": 10.0806793403151,
+        "median": 10.0,
+        "default": 10.0
+      },
+      "capital_gain": {
+        "min": 0.0,
+        "max": 99999.0,
+        "mean": 1077.6488437087312,
+        "median": 0.0,
+        "default": 0.0
+      },
+      "capital_loss": {
+        "min": 0.0,
+        "max": 4356.0,
+        "mean": 87.303829734959,
+        "median": 0.0,
+        "default": 0.0
+      },
+      "hours_per_week": {
+        "min": 1.0,
+        "max": 99.0,
+        "mean": 40.437455852092995,
+        "median": 40.0,
+        "default": 40.0
+      }
+    },
+    "categorical_features": {
+      "workclass": [
+        "?",
+        "Federal-gov",
+        "Local-gov",
+        "Never-worked",
+        "Private",
+        "Self-emp-inc",
+        "Self-emp-not-inc",
+        "State-gov",
+        "Without-pay"
+      ],
+      "education": [
+        "10th",
+        "11th",
+        "12th",
+        "1st-4th",
+        "5th-6th",
+        "7th-8th",
+        "9th",
+        "Assoc-acdm",
+        "Assoc-voc",
+        "Bachelors",
+        "Doctorate",
+        "HS-grad",
+        "Masters",
+        "Preschool",
+        "Prof-school",
+        "Some-college"
+      ],
+      "marital_status": [
+        "Divorced",
+        "Married-AF-spouse",
+        "Married-civ-spouse",
+        "Married-spouse-absent",
+        "Never-married",
+        "Separated",
+        "Widowed"
+      ],
+      "occupation": [
+        "?",
+        "Adm-clerical",
+        "Armed-Forces",
+        "Craft-repair",
+        "Exec-managerial",
+        "Farming-fishing",
+        "Handlers-cleaners",
+        "Machine-op-inspct",
+        "Other-service",
+        "Priv-house-serv",
+        "Prof-specialty",
+        "Protective-serv",
+        "Sales",
+        "Tech-support",
+        "Transport-moving"
+      ],
+      "relationship": [
+        "Husband",
+        "Not-in-family",
+        "Other-relative",
+        "Own-child",
+        "Unmarried",
+        "Wife"
+      ],
+      "race": [
+        "Amer-Indian-Eskimo",
+        "Asian-Pac-Islander",
+        "Black",
+        "Other",
+        "White"
+      ],
+      "sex": [
+        "Female",
+        "Male"
+      ],
+      "native_country": [
+        "?",
+        "Cambodia",
+        "Canada",
+        "China",
+        "Columbia",
+        "Cuba",
+        "Dominican-Republic",
+        "Ecuador",
+        "El-Salvador",
+        "England",
+        "France",
+        "Germany",
+        "Greece",
+        "Guatemala",
+        "Haiti",
+        "Holand-Netherlands",
+        "Honduras",
+        "Hong",
+        "Hungary",
+        "India",
+        "Iran",
+        "Ireland",
+        "Italy",
+        "Jamaica",
+        "Japan",
+        "Laos",
+        "Mexico",
+        "Nicaragua",
+        "Outlying-US(Guam-USVI-etc)",
+        "Peru",
+        "Philippines",
+        "Poland",
+        "Portugal",
+        "Puerto-Rico",
+        "Scotland",
+        "South",
+        "Taiwan",
+        "Thailand",
+        "Trinadad&Tobago",
+        "United-States",
+        "Vietnam",
+        "Yugoslavia"
+      ]
+    },
+    "features_order": [
+      "age",
+      "workclass",
+      "education",
+      "education_num",
+      "marital_status",
+      "occupation",
+      "relationship",
+      "race",
+      "sex",
+      "capital_gain",
+      "capital_loss",
+      "hours_per_week",
+      "native_country"
+    ]
+  }
+}
