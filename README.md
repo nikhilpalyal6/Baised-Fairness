@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **🚀 Live Interactive Demo:** [https://fairrecruit-ai.streamlit.app](https://fairrecruit-ai.streamlit.app) *(Replace with your deployed Streamlit link)*
+> **🚀 Live Interactive Demo:** [https://baised-fairness.streamlit.app](https://baised-fairness.streamlit.app)
 
 ---
 
